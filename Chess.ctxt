@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ initBoard()
+comment1.params=
+comment1.target=void\ initializeBoard()
+comment2.params=
+comment2.target=void\ printBoard()
+comment3.params=
+comment3.target=void\ initAndPrint()
+comment4.params=letter
+comment4.target=int\ convertLetter(java.lang.String)
+comment5.params=player
+comment5.target=void\ movePiece(java.lang.String)
+comment6.params=
+comment6.target=void\ runGame()
+numComments=7
