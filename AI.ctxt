@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rook\r\n
+comment1.params=
+comment1.target=void\ resetPlaces()
+comment2.params=piece
+comment2.target=void\ checkPositions(Piece)
+comment3.params=player
+comment3.target=void\ checkPlayer(java.lang.String)
+comment4.params=player
+comment4.target=boolean\ checkCheckMate(java.lang.String)
+comment5.params=piece\ player
+comment5.target=boolean\ testMove(Piece,\ java.lang.String)
+comment6.params=
+comment6.target=void\ resetTest()
+numComments=7
